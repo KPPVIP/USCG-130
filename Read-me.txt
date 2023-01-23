@@ -1,0 +1,48 @@
+USCG C-130 Package
+------------------
+
+
+Mod features:
+-Detailed exterior
+-Detailed interior
+-Custom seat layout
+-Working dials
+-Working sirens and lights
+-Bullet impact and glass shattering
+-All parts openable
+-Custom col mesh
+
+
+Credits:
+Model:
+FSX
+p3dm.ru
+
+Converted to GTA V and edited by SkylineGTRFreak
+
+USCG Liveries and layout by PNWParksFan
+
+
+
+-----------------------------------------------------------------------------
+Instructions:
+
+ADD-ON VERSION:
+
+1. Place the "uscg130" folder into [Gamefolder]\update\X64\dlcpacks\
+2. With OpenIV, open [Game folder]\update\update.rpf\common\data\dlclist.xml and add this with Notepad++
+		<Item>dlcpacks:\uscg130\</Item>
+
+3. Now you are done, you will need a trainer with "spawn by name" function (Enhanced Native Trainer for example) to spawn the vehicle type in:
+
+"cg130h" = C-130H Hercules
+
+"cg130j" = C-130J Hercules
+
+"ec130v" = EC-130V AEW
+
+If the game crashes on startup, use a custom gameconfig.xml (you can find them at gta5-mods.com)
+
+
+I would advise using a Mods folder (more info at OpenIV) 
+and make a backup, I take no responsibility if any shit happens.
